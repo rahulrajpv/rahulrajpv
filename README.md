@@ -1,18 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahulraj P V</h1>
-<h3 align="center">Student at IIITMK, ThiruvanaThiruvananthapuram 🌟.</h3>
-
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=rahulrajpv=Profile%20views&color=0e75b6&style=flat"
-    alt="rahulrajpv" /> 
-  </p>
-
+<h3 align="center">IIITMK MTech CSE '24 | GDSC WOW Kerala Media Team | GTech MuLearn Campus Lead | Chief Operating Officer DUK Innovations | Former CSIR NPL Project Intern | Google Certified Data Analyst | PGDDSA | MSc Physics.</h3>
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
-- 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **rahulraj.cs22@duk.ac.in**
 
@@ -61,6 +51,3 @@
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-[rahulrajpv](https://github.com/rahulrajpv)
-
