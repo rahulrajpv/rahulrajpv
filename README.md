@@ -30,7 +30,7 @@
 <br>
 
 ## Skills 
-[![My Skills](https://skillicons.dev/icons?i=ae,blender,discord,figma,github,gitlab,instagram,linkedin,matlab,ps,powershell,py,r,stackoverflow,tensorflow,twitter,vscode,wordpress&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,blender,discord,figma,github,gitlab,instagram,linkedin,matlab,ps,powershell,py,r,stackoverflow,tensorflow,twitter,vscode,wordpress&perline=4)](https://skillicons.dev)
 
 <br>
 
