@@ -2,6 +2,7 @@
 <h3 align="center">IIITMK MTech CSE '24 | GDSC WOW Kerala Media Team | GTech MuLearn Campus Lead | COO DUK Innovations | CSIR NPL Project Intern | Google Certified Data Analyst | PGDDSA | MSc Physics.</h3>
 <br>
 - 📫 How to reach me **rahulraj.cs22@duk.ac.in**
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rahulrajpvr7d/" target="blank"><img align="center"
@@ -24,7 +25,7 @@
 <br>
 
 ## Skills 
-[![My Skills](https://skillicons.dev/icons?i=ae,blender,discord,figma,github,gitlab,instagram,linkedin,matlab,ps,powershell,py,r,stackoverflow,tensorflow,twitter,vscode,wordpress&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,blender,discord,figma,github,gitlab,instagram,linkedin,matlab,ps,powershell,py,r,stackoverflow,tensorflow,twitter,vscode,wordpress&perline=10)](https://skillicons.dev)
 
 <br>
 
