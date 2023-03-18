@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahulraj P V</h1>
 <h3 align="center">IIITMK MTech CSE '24 | GDSC WOW Kerala Media Team | GTech MuLearn Campus Lead | COO DUK Innovations | CSIR NPL Project Intern | Google Certified Data Analyst | PGDDSA | MSc Physics.</h3>
 <br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
 - 📫 How to reach me **rahulraj.cs22@duk.ac.in**
-
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rahulrajpvr7d/" target="blank"><img align="center"
