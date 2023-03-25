@@ -12,7 +12,7 @@
   <a href="https://instagram.com/rahulrajpvr7d" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="rahulraj p v" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/rahulrajpvr7d" target="blank"><img align="center"
+  <a href="https://www.hackerrank.com/rahulrajpv_here?hr_r=1" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="rahulraj p v" height="30" width="40" /></a>
  <a href="https://twitter.com/rahulrajpvr7d" target="blank"><img align="center"
