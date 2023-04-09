@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahulraj P V</h1>
+<h1 align="center">Hi , I'm Rahulraj P V</h1>
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -37,3 +37,6 @@
       
 <p align="left"> <a href="https://twitter.com/"<img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+      
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rahulrajpv&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
