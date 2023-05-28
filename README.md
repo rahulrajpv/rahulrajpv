@@ -38,7 +38,5 @@
 <p align="left"> <a href="https://twitter.com/"<img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rahulrajpv&&bg_color=5465ff&color=e2fdff&line=14FE64&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rahulrajpv&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
